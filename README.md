@@ -1,6 +1,7 @@
 <h2 align="center">
   Ghanshyam Kumar Portfolio Website<br/>
-  <a href="https://gkjaiswal09.github.io/portfolio/" target="_blank">gkjaiswal09.github.io/portfolio</a>
+  <a href="https://portfoliogkjaswal.netlify.app
+" target="_blank">gkjaiswal09.github.io/portfolio</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img.png" />
